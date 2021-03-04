@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom.Server", "ChatRoom.Server.csproj", "{D70DAAA7-E896-48D3-BF84-93793C4F8F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScoket", "..\WebScoket\WebScoket.csproj", "{5BFEB37A-D5DC-46B1-AF4A-F669128E2B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70DAAA7-E896-48D3-BF84-93793C4F8F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70DAAA7-E896-48D3-BF84-93793C4F8F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70DAAA7-E896-48D3-BF84-93793C4F8F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70DAAA7-E896-48D3-BF84-93793C4F8F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFEB37A-D5DC-46B1-AF4A-F669128E2B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFEB37A-D5DC-46B1-AF4A-F669128E2B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFEB37A-D5DC-46B1-AF4A-F669128E2B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFEB37A-D5DC-46B1-AF4A-F669128E2B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83869DE2-9F25-477E-AB61-EA3B460AD35F}
+	EndGlobalSection
+EndGlobal
